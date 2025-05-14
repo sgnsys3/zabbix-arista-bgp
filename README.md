@@ -1,5 +1,10 @@
 # zabbix-arista-bgp
 
+This template is based on ARISTA-BGP4V2-MIB
+
+Items
+  - Arista BGP4v2 from SNMP
+
 Discovery items
   - BGP Peer {#BGP_REMOTE_ADDR} ({#BGP_DESCRIPTION}) Admin State
   - BGP Peer {#BGP_REMOTE_ADDR} ({#BGP_DESCRIPTION}) EVPN Incomming Accepted Prefixes
